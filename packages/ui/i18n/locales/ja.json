@@ -114,7 +114,6 @@
   "listMode": "リスト",
   "displayMode": "表示モード",
   "tableMode": "テーブル",
-  "chipsMode": "チップ",
   "masterDetailMode": "マスター詳細",
   "none": "なし",
   "urlForLatencyTest": "レイテンシテスト用 URL",

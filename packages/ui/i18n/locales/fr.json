@@ -114,7 +114,6 @@
   "listMode": "Liste",
   "displayMode": "Mode d'affichage",
   "tableMode": "Tableau",
-  "chipsMode": "Puces",
   "masterDetailMode": "Maître-détail",
   "none": "Aucun",
   "urlForLatencyTest": "URL pour le test de latence",

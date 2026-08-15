@@ -114,7 +114,6 @@
   "listMode": "목록",
   "displayMode": "표시 모드",
   "tableMode": "테이블",
-  "chipsMode": "칩",
   "masterDetailMode": "마스터-디테일",
   "none": "없음",
   "urlForLatencyTest": "지연 테스트 URL",

@@ -114,7 +114,6 @@
   "listMode": "Список",
   "displayMode": "Режим отображения",
   "tableMode": "Таблица",
-  "chipsMode": "Чипы",
   "masterDetailMode": "Мастер-деталь",
   "none": "Нет",
   "urlForLatencyTest": "URL для теста отклика",
